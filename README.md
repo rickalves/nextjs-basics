@@ -1,4 +1,4 @@
-## Projeto desenvolvido com estudo de caso do Next.js
+## Projeto desenvolvido com estudo de caso dos fundamentos Next.js
 `Nesse projeto foram testados alguns conceitos basicos do Next.js.`
 
 ### Conceitos testados nesse projeto:
