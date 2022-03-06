@@ -1,0 +1,23 @@
+.table {
+    border-collapse: collapse;
+    width: 70%;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  
+.table > thead th, .table > tbody td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+.table > tbody tr:nth-child(odd){background-color: #fcfcfc}
+  
+.table > thead > tr > th {
+    background-color: #1469d8;
+    color: white;
+  }
+
+  .btn_group {
+    display: flex;
+    flex-direction: row-reverse;
+  }

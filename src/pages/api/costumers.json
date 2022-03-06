@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "first_name": "James",
+        "last_name": "Butterburg",
+        "address": {
+            "street": "6649 N Blue Gum St",
+            "city": "New Orleans",
+            "state": "LA",
+            "zip": 70116
+        }
+    },
+    {
+        "id": 2,
+        "first_name": "Josephine",
+        "last_name": "Darakjy",
+        "address": {
+            "street": "4 B Blue Ridge Blvd",
+            "city": "Brighton",
+            "state": "MI",
+            "zip": 48116
+        }
+    },
+    {
+        "id": 3,
+        "first_name": "Art",
+        "last_name": "Chemel",
+        "address": {
+            "street": "8 W Cerritos Ave #54",
+            "city": "Bridgeport",
+            "state": "NJ",
+            "zip": 80152
+        }
+    },
+    {
+        "id": 4,
+        "first_name": "Rick",
+        "last_name": "Alves",
+        "address": {
+            "street": "Av. Senador Catunda, Nº 468",
+            "city": "Guaraciaba",
+            "state": "CE",
+            "zip": 6238000
+        }
+    }
+]

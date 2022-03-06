@@ -1,0 +1,36 @@
+.picture{
+    border: 5px solid rgb(25, 105, 226);
+    border-radius: 100%;
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+}
+
+.name{
+    margin: 15px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    margin-top: 20px;
+    font-size: 0.7rem;
+}
+.picture img{
+    height: 100%;
+}
+
+.icon{
+    font-size: 1.5rem;
+}
+
+.info{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    margin: 10px 0px;
+}
+
+
+
