@@ -10,7 +10,8 @@
  - Estilização de componentes com Mui Material UI;
  - Pacote de Ícones com o Font Awesome.
  
-![](https://drive.google.com/file/d/1C-fYbiNIbwNfz5rrQp30qkXdtTrwvmfk/view?usp=sharing)
+![](https://media.giphy.com/media/X2zbgDBj3RrCsXF0mr/giphy.gif)
+
  
   
 ### Status / Info
